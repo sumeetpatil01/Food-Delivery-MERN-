@@ -1,6 +1,6 @@
 # follow the Youtube Video
 https://youtu.be/b1LmLdVRHDY?si=L_a1NXwP-pzyCpk3
-# Note add the API keys in config.env file in Data base Folder APIS used are Cloudinary, Mailtrap, Stripe 
+# Note add the API keys in config.env file in Data base Folder APIS used are Cloudinary, Mailtrap, Stripe. 
 # Few Screenshorts
                                                                  Home
 ![Screenshot (66)](https://github.com/user-attachments/assets/9fa56554-a68a-4a1a-b0f3-c26289554462)
