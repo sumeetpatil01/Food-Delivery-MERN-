@@ -22,8 +22,8 @@ A web application that allows users to order food online efficiently. The app is
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumeetpatil01/Food-Delivery-MERN.git
-   cd Food-Delivery-MERN
+   git clone https://github.com/sumeetpatil01/Food-Delivery-MERN-.git
+   cd Food-Delivery-MERN-
 # ScreenShorts
 ### Home
 ![Screenshot (66)](https://github.com/user-attachments/assets/9fa56554-a68a-4a1a-b0f3-c26289554462)
